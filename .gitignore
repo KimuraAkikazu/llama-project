@@ -1,3 +1,5 @@
 models/
 *.gguf
 *.bin
+*.pth
+__pycache__/
