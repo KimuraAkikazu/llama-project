@@ -1,0 +1,16 @@
+--- MMLU Q1 ---
+Question: Members of which of the following groups are most likely to be surrounded by a protein coat?
+A. Viruses
+B. Bacteria
+C. Eukaryotes
+D. Archaea
+
+=== Round 1 ===
+Agent1 (Turn 1): {"reasoning": "Viruses are composed of a protein coat called a capsid that surrounds the genetic material. This is in contrast to bacteria, which have cell walls and membranes, and eukaryotes and archaea, which have complex cellular structures.", "answer": "A"}
+Agent2 (Turn 1): {
+  "reasoning": "Viruses are obligate parasites that replicate inside a host cell. They have genetic material but lack the ability to carry out metabolic processes on their own, so they require the machinery of a host cell to survive. In order to protect their genetic material and facilitate entry into host cells, viruses are surrounded by a protein coat called an envelope or capsid.",
+  "answer": "A"
+}
+Agent3 (Turn 1): {"reasoning": "Viruses are known to have genetic material enclosed in a protein coat, which is called a capsid. The presence of this protein coat distinguishes viruses from other types of microorganisms like bacteria and archaea. Eukaryotes are cells with complex structures that contain their own DNA and do not have the characteristic virus structure.", "answer": "A"}
+
+=== Round 2 ===

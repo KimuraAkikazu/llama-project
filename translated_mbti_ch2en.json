@@ -1,0 +1,560 @@
+{
+    "1": {
+        "question_ch": "当你要外出一整天时，你会：\\nA.计划要做的事情以及做的时间\\nB.不做计划，说走就走",
+        "question_en": "When you go out for an entire day, you will:\nA. Make a plan of things to do and the time for each\nB. Not make a plan and just go with the flow",
+        "A": "J",
+        "B": "P"
+    },
+    "2": {
+        "question_ch": "你认为自己是一个什么样的人？\\nA.随性而为的人\\nB.有条不紊的人",
+        "question_en": "What kind of person do you consider yourself to be?\nA. A disorganized and carefree person\nB. An orderly and disciplined person",
+        "A": "P",
+        "B": "J"
+    },
+    "3": {
+        "question_ch": "假如你是一位老师，你会选教：\\nA.以事实为主的课程\\nB.以理论为主的课程",
+        "question_en": "If you are a teacher, you would choose:\nA. Fact-based courses\nB. Theoretical courses",
+        "A": "S",
+        "B": "N"
+    },
+    "4": {
+        "question_ch": "你通常是一个\\nA.善于交际的人\\nB.安静缄默的人",
+        "question_en": "You are usually a \nA. Sociable person\nB. Quiet and reserved person",
+        "A": "E",
+        "B": "I"
+    },
+    "5": {
+        "question_ch": "一般来说，你和哪些人比较合得来？\\nA.富于想象力的人\\nB.现实的人",
+        "question_en": "In general, who do you get along with better:\nA. People who are rich in imagination\nB. Practical people",
+        "A": "N",
+        "B": "S"
+    },
+    "6": {
+        "question_ch": "你会经常倾向于？\\nA.你的情感支配你的理智\\nB.你的理智主宰你的情感",
+        "question_en": "Do you often tend to:\nA. Let your emotions control your reason\nB. Have your reason dominate your emotions",
+        "A": "F",
+        "B": "T"
+    },
+    "7": {
+        "question_ch": "处理许多事情上，你会更喜欢：\\nA.感性地做事\\nB.依逻辑行事",
+        "question_en": "In dealing with many things, you would prefer:\nA. To act intuitively\nB. To act logically",
+        "A": "P",
+        "B": "J"
+    },
+    "8": {
+        "question_ch": "你更倾向于：\\nA.容易让他人了解\\nB.比较难让人了解",
+        "question_en": "You are more likely to:\nA. make it easy for others to understand\nB. be hard for others to understand",
+        "A": "E",
+        "B": "I"
+    },
+    "9": {
+        "question_ch": "严格按照计划做事会让你感到：\\nA.合你心意\\nB.令你感到束缚",
+        "question_en": "Strictly following the plan will make you feel:\nA. Satisfied\nB. Restricted",
+        "A": "J",
+        "B": "P"
+    },
+    "10": {
+        "question_ch": "当你有一份对你很重要的工作时，你会喜欢：\\nA.在开始前精心组织策划\\nB.在工作进行中找出必要环节",
+        "question_en": "When you have an important piece of work, you will like:\nA. To carefully plan and organize before starting\nB. To find the necessary steps while working",
+        "A": "J",
+        "B": "P"
+    },
+    "11": {
+        "question_ch": "在大多数情况下，你会选择：\\nA.顺其自然\\nB.按照计划做事",
+        "question_en": "In most cases, you would choose:\nA. Go with the flow\nB. Follow the plan",
+        "A": "P",
+        "B": "J"
+    },
+    "12": {
+        "question_ch": "大多数人认为你是一个\\nA.重视自我隐私的人\\nB.非常坦率开放的人",
+        "question_en": "Most people think you are:\nA. A private person\nB. A very open-minded person",
+        "A": "I",
+        "B": "E"
+    },
+    "13": {
+        "question_ch": "你宁愿被人认为是一个\\nA.实事求是的人\\nB.机灵的人",
+        "question_en": "Would you rather be seen as\nA. A straightforward person\nB. A clever person",
+        "A": "S",
+        "B": "N"
+    },
+    "14": {
+        "question_ch": "在一大群人当中，通常是\\nA.你介绍大家认识\\nB.别人介绍你",
+        "question_en": "In a big crowd,\nA. You introduce everyone to each other\nB. Others introduce you",
+        "A": "E",
+        "B": "I"
+    },
+    "15": {
+        "question_ch": "你会跟哪些人做朋友？\\nA.常提出新主意的\\nB.脚踏实地的",
+        "question_en": "Which types of people would you be friends with?\nA. Those who frequently propose new ideas\nB. Practical and down-to-earth people",
+        "A": "N",
+        "B": "S"
+    },
+    "16": {
+        "question_ch": "你倾向\\nA.重视感情多于逻辑\\nB.重视逻辑多于感情",
+        "question_en": "You tend:\nA. to place more importance on emotions than logic\nB. to place more importance on logic than emotions",
+        "A": "F",
+        "B": "T"
+    },
+    "17": {
+        "question_ch": "你比较喜欢\\nA.坐观事情发展才作计划\\nB.很早就作计划",
+        "question_en": "You prefer:\nA. To watch events unfold before making plans\nB. To make plans very early",
+        "A": "P",
+        "B": "J"
+    },
+    "18": {
+        "question_ch": "你喜欢花很多的时间\\nA.一个人独处\\nB.和别人在一起",
+        "question_en": "You like to spend a lot of time with flowers.\nA. Alone \nB. With someone else",
+        "A": "I",
+        "B": "E"
+    },
+    "19": {
+        "question_ch": "与很多人一起会\\nA.令你活力培增\\nB.常常令你心力憔悴",
+        "question_en": "Being with many people together\nA. Boosts your energy levels for you\nB. Often makes your spirit weak",
+        "A": "E",
+        "B": "I"
+    },
+    "20": {
+        "question_ch": "你比较喜欢\\nA.很早便把约会、社交聚集等事情安排妥当\\nB.无拘无束，看当时有什么好玩就做什么",
+        "question_en": "You prefer:\nA. Making arrangements for dates, social gatherings, etc. in advance.\nB. Being free and easy, doing whatever is fun at the moment",
+        "A": "J",
+        "B": "P"
+    },
+    "21": {
+        "question_ch": "计划一个旅程时，你较喜欢\\nA.大部分的时间都是跟当天的感觉行事 \\nB.事先知道大部分的时间会做什么",
+        "question_en": "When planning a journey, you prefer:\nA. Spending most of your time going with the flow of the day's feelings\nB. Knowing in advance most of what you will be doing",
+        "A": "P",
+        "B": "J"
+    },
+    "22": {
+        "question_ch": "在社交聚会中，你\\nA.有时感到郁闷\\nB.常常乐在其中",
+        "question_en": "At social gatherings, you\nA. sometimes feel bored\nB. are often enjoying yourself",
+        "A": "I",
+        "B": "E"
+    },
+    "23": {
+        "question_ch": "你通常\\nA.和别人容易混熟\\nB.不太容易和别人混熟",
+        "question_en": "You usually \nA. get along well with others \nB. don't get along well with others",
+        "A": "E",
+        "B": "I"
+    },
+    "24": {
+        "question_ch": "哪些人会更吸引你？\\nA. 一个思想敏捷及非常聪颖的人\\nB.实事求是，具丰富常识的人",
+        "question_en": "Which type of person would attract you more?\nA. A flexible-minded and very intelligent person\nB. A practical person with rich common sense",
+        "A": "N",
+        "B": "S"
+    },
+    "25": {
+        "question_ch": "在日常工作中，你会\\nA.在时间紧迫的情况下争分夺秒地工作\\nB.先安排好工作计划再工作，以免压力过大",
+        "question_en": "In daily work, you will \n A. Work under time pressure, competing for every second\n B. Plan out your work schedule in advance to prevent excessive pressure",
+        "A": "P",
+        "B": "J"
+    },
+    "26": {
+        "question_ch": "你认为别人一般\\nA.要花很长时间才认识你\\nB.用很短的时间便认识你",
+        "question_en": "Do you think it takes most people\nA. A long time to get to know you\nB. A short time to get to know you",
+        "A": "I",
+        "B": "E"
+    },
+    "27": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.注重隐私\\nB.坦率开放",
+        "question_en": "Which of the following two words do you prefer? \nA. Attach importance to privacy \nB. Be frank and open",
+        "A": "I",
+        "B": "E"
+    },
+    "28": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.预先安排的\\nB.无计划的",
+        "question_en": "Which one of the following two words do you prefer?\nA. Prearranged \nB. Unplanned",
+        "A": "J",
+        "B": "P"
+    },
+    "29": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.抽象\\nB.具体",
+        "question_en": "Of the two words below, which one do you prefer?\nA. Abstract\nB. Concrete",
+        "A": "N",
+        "B": "S"
+    },
+    "30": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.温柔\\nB.坚定",
+        "question_en": "Of the following two words, which one do you prefer?\nA. Gentle\nB. Firm",
+        "A": "F",
+        "B": "T"
+    },
+    "31": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.思考 \\nB.感受",
+        "question_en": "Which one of the following two words do you prefer?\nA. Thinking\nB. Feeling",
+        "A": "T",
+        "B": "F"
+    },
+    "32": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.事实\\nB.意念",
+        "question_en": "Of the following two words, which one do you prefer?\nA. Fact\nB. Intention",
+        "A": "S",
+        "B": "N"
+    },
+    "33": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.冲动\\nB.决定",
+        "question_en": "Which of the following two words do you prefer?\nA. Impulsive\nB. Decisive",
+        "A": "P",
+        "B": "J"
+    },
+    "34": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.热情\\nB.文静",
+        "question_en": "Which one of the following two words do you prefer?\nA. Enthusiasm\nB. Serenity",
+        "A": "E",
+        "B": "I"
+    },
+    "35": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.文静\\nB.外向",
+        "question_en": "Which one of the following two words do you prefer?\nA. Quiet\nB. Extroverted",
+        "A": "I",
+        "B": "E"
+    },
+    "36": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.有计划的\\nB.随心所欲的",
+        "question_en": "Which of the following two words do you prefer? \nA. Planned \nB. Impulsive",
+        "A": "J",
+        "B": "P"
+    },
+    "37": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.理论\\nB.肯定",
+        "question_en": "Which one of the following two words do you prefer? \nA. Theory \nB. Certain",
+        "A": "N",
+        "B": "S"
+    },
+    "38": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.敏感\\nB.公正",
+        "question_en": "Of the following two words, which one do you prefer?\nA. Sensitive\nB. Fair",
+        "A": "F",
+        "B": "T"
+    },
+    "39": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.令人信服的\\nB.感人的",
+        "question_en": "Which one of the following two words do you prefer?\nA. Convincing\nB. Moving or touching",
+        "A": "T",
+        "B": "F"
+    },
+    "40": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.声明\\nB.概念",
+        "question_en": "Of the two words below, which one do you prefer?",
+        "A": "S",
+        "B": "N"
+    },
+    "41": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.不受约束\\nB.预先安排",
+        "question_en": "Which one of the following two words do you prefer?\nA. Unrestrained\nB. Prearranged",
+        "A": "P",
+        "B": "J"
+    },
+    "42": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.矜持\\nB.健谈",
+        "question_en": "Which one of the following two words do you prefer?\nA. Composure\nB. Articulate",
+        "A": "I",
+        "B": "E"
+    },
+    "43": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.有条不紊\\nB.不拘小节",
+        "question_en": "Of the two words below, which one do you prefer?\nA. Orderly and uninterrupted\nB. Not bound by formalities",
+        "A": "J",
+        "B": "P"
+    },
+    "44": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.创新\\nB.切实",
+        "question_en": "Of the following two words, which one do you prefer?\nA. Innovation\nB. Practical",
+        "A": "N",
+        "B": "S"
+    },
+    "45": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.同情怜悯\\nB.具有远见",
+        "question_en": "Of the following two words, which one do you prefer?\nA. Sympathy and Compassion\nB. Farsightedness or Forward-looking",
+        "A": "F",
+        "B": "T"
+    },
+    "46": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.利益\\nB.祝福",
+        "question_en": "Of the two words below, which one do you prefer?\nA. Interest\nB. Blessing",
+        "A": "T",
+        "B": "F"
+    },
+    "47": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.务实的\\nB.理论的",
+        "question_en": "Which one of the following two words do you prefer?\nA. Practical\nB. Theoretical",
+        "A": "S",
+        "B": "N"
+    },
+    "48": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.朋友不多\\nB.朋友众多",
+        "question_en": "Of the two words below, which one do you prefer?\nA. Having few friends\nB. Having many friends",
+        "A": "I",
+        "B": "E"
+    },
+    "49": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.系统性的\\nB.即兴的",
+        "question_en": "Which one of the following words do you prefer?\nA. Systematic\nB. Impromptu",
+        "A": "J",
+        "B": "P"
+    },
+    "50": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.富想象的\\nB.就事论事的",
+        "question_en": "Which one of the following two words do you prefer?",
+        "A": "N",
+        "B": "S"
+    },
+    "51": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.亲切的\\nB.客观的",
+        "question_en": "Which one of the following two words do you prefer? \nA. Intimate \nB. Objective",
+        "A": "F",
+        "B": "T"
+    },
+    "52": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.客观的\\nB.热情的",
+        "question_en": "Which one of the following two words do you prefer?\nA. Objective\nB. Enthusiastic",
+        "A": "T",
+        "B": "F"
+    },
+    "53": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.建造\\nB.发明",
+        "question_en": "Of the two words below, which one do you prefer?\nA. Construction\nB. Invention",
+        "A": "S",
+        "B": "N"
+    },
+    "54": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.文静\\nB.爱合群",
+        "question_en": "Of the following two words, which one do you prefer?\nA. Quiet\nB. Sociable",
+        "A": "I",
+        "B": "E"
+    },
+    "55": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.理论\\nB.事实",
+        "question_en": "Which one of the following two words do you prefer?\nA. Theory\nB. Fact",
+        "A": "N",
+        "B": "S"
+    },
+    "56": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.富同情\\nB.合逻辑",
+        "question_en": "Which one of the following two words do you prefer?\nA. Filial piety\nB. Logical",
+        "A": "F",
+        "B": "T"
+    },
+    "57": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.具分析力\\nB.多愁善感",
+        "question_en": "Which of the following two words do you prefer?\nA. Analytical\nB. Compassionate",
+        "A": "T",
+        "B": "F"
+    },
+    "58": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.合情合理\\nB.令人着迷",
+        "question_en": "Of the two words below, which one do you prefer?",
+        "A": "S",
+        "B": "N"
+    },
+    "59": {
+        "question_ch": "当你要在一个星期内完成一个大项目，你在开始的时候会\\nA.把要做的不同工作依次列出\\nB.马上动工",
+        "question_en": "When you are about to finish a big project within a week, you will \nA. make a list of the different tasks in order \nB. start working right away",
+        "A": "J",
+        "B": "P"
+    },
+    "60": {
+        "question_ch": "在社交场合中，你经常会感到\\nA.与某些人很难打开话匣儿和保持对话\\nB.与多数人都能从容地长谈",
+        "question_en": "In social settings, you often find it hard to open up to some people and keep a conversation going,\nA. With certain people \nB. With most people",
+        "A": "I",
+        "B": "E"
+    },
+    "61": {
+        "question_ch": "当做一件许多人都做过的事，你比较喜欢\\nA.按照之前大家认可的方法去做\\nB.按照自己的想法去做",
+        "question_en": "When it comes to something that many people have done,\nA. Do it the way that has been generally accepted by everyone\nB. Do it according to your own thoughts",
+        "A": "S",
+        "B": "N"
+    },
+    "62": {
+        "question_ch": "你能否对刚一个刚认识的人说出你的兴趣？\\nA.马上可以\\nB.要待他们真正了解你之后才可以",
+        "question_en": "Can you tell your new acquaintance about your interests right away? \nA. Yes, I can\nB. Only after they really get to know me",
+        "A": "E",
+        "B": "I"
+    },
+    "63": {
+        "question_ch": "你通常较喜欢的科目是\\nA.讲授概念和原则的\\nB.讲授事实和数据的",
+        "question_en": "You generally prefer to teach:\nA. Concepts and principles\nB. Facts and data",
+        "A": "N",
+        "B": "S"
+    },
+    "64": {
+        "question_ch": "哪种人更容易得到你的称赞？\\nA.一贯感性的人\\nB.一贯理性的人",
+        "question_en": "Which kind of person is easier for you to praise?\nA. A consistently emotional person\nB. A consistently rational person",
+        "A": "F",
+        "B": "T"
+    },
+    "65": {
+        "question_ch": "你认为按照日程表做事\\nA.有时是需要的，但一般来说你不大喜欢这样做\\nB.大多数情况下是有帮助而且是你喜欢做的",
+        "question_en": "You think following a schedule for doing things \nA. It's necessary sometimes but generally you don't like to do it \nB. It's helpful most of the time and you enjoy doing it",
+        "A": "P",
+        "B": "J"
+    },
+    "66": {
+        "question_ch": "和一群人在一起，你通常会选\\nA.跟你很熟悉的个别人谈话\\nB.参与进所有人的谈话",
+        "question_en": "With a group of people, you usually \nA. Choose to talk to those who are familiar to you \nB. Participate in all the conversations of everyone",
+        "A": "I",
+        "B": "E"
+    },
+    "67": {
+        "question_ch": "在社交聚会上，你更多时候是在\\nA.讲话\\nB.倾听",
+        "question_en": "At a social gathering, you spend more time \nA. Speaking \nB. Listening",
+        "A": "E",
+        "B": "I"
+    },
+    "68": {
+        "question_ch": "把周末期间要完成的事列成一个清单，这个主意令你感到\\nA.合你心意\\nB.没什么兴趣",
+        "question_en": "Making a list of things to do during the weekend makes you feel:\nA. satisfied\nB. uninterested",
+        "A": "J",
+        "B": "P"
+    },
+    "69": {
+        "question_ch": "哪种人更容易得到你的称赞？\\nA.能干的\\nB.富有同情心",
+        "question_en": "Which kind of person is easier for you to praise?\nA. The capable one\nB. The one rich in empathy",
+        "A": "T",
+        "B": "F"
+    },
+    "70": {
+        "question_ch": "你通常喜欢\\nA.事先安排你的社交约会\\nB.随性而为的做事",
+        "question_en": "You usually prefer \nA. Arranging your social engagements in advance \nB. Doing things impulsively",
+        "A": "J",
+        "B": "P"
+    },
+    "71": {
+        "question_ch": "总的说来，要做一个大型作业时，你会选\\nA.边做边想该做什么\\nB.首先把工作按步细分再开始",
+        "question_en": "In general, when you are about to do a large-scale project, you will\nA. work and think about what to do at the same time\nB. first divide the work into steps before starting",
+        "A": "P",
+        "B": "J"
+    },
+    "72": {
+        "question_ch": "你能否滔滔不绝地与人聊天\\nA.只限于跟你有共同兴趣的人\\nB.几乎跟任何人都可以",
+        "question_en": "Can you talk and talk endlessly with people\nA. Only limited to those who share the same interests as you\nB. Almost anyone can do so",
+        "A": "I",
+        "B": "E"
+    },
+    "73": {
+        "question_ch": "当做一件事时，你会\\nA.跟随一些被证明有效的方法去做\\nB.分析现有方法存在的问题，并针尝试解决这些尚未解决的难题",
+        "question_en": "When treating a matter,\nA. you follow some methods proven effective\nB. analyze the problems of existing methods, and attempt to solve the unsolved difficulties",
+        "A": "S",
+        "B": "N"
+    },
+    "74": {
+        "question_ch": "当你在读书时，你更喜欢\\nA.奇特或创新的表达方式\\nB.直白且客观的表达方式",
+        "question_en": "When you are reading, do you prefer:\nA. Unique or innovative expression styles\nB. Clear and objective expression styles",
+        "A": "N",
+        "B": "S"
+    },
+    "75": {
+        "question_ch": "你希望自己上司（或老师）是一个什么样的人？\\nA.脾气好，但前后不一致\\nB.对人严厉，但有条理",
+        "question_en": "Do you want your boss (or teacher) to be what kind of person?\nA. Temperamental, but inconsistent\nB. Strict with people, but logical",
+        "A": "T",
+        "B": "N"
+    },
+    "76": {
+        "question_ch": "你做事多数是\\nA.按当天心情去做\\nB.照拟好的程序表去做",
+        "question_en": "You usually do things:\nA. According to your mood of the day\nB. Following a well-planned program",
+        "A": "P",
+        "B": "J"
+    },
+    "77": {
+        "question_ch": "你是否\\nA.可以和任何人按需求从容地交谈，或是\\nB.只是对某些人或在某种情况下才可以畅所欲言",
+        "question_en": "Can you speak freely and comfortably with anyone according to their demands, or only with certain people or in certain situations?",
+        "A": "E",
+        "B": "I"
+    },
+    "78": {
+        "question_ch": "要作决定时，你认为比较重要的是\\nA.考虑事物的真相\\nB.考虑他人的感受和意见",
+        "question_en": "When making a decision, you consider \nA. the truth of the matter\nB. other people's feelings and opinions",
+        "A": "T",
+        "B": "F"
+    },
+    "79": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.想象的\\nB.真实的",
+        "question_en": "Which one of the following two words do you prefer?\nA. Imaginary\nB. Real",
+        "A": "N",
+        "B": "S"
+    },
+    "80": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.仁慈慷慨的\\nB.意志坚定的",
+        "question_en": "Of the two words below, which one do you prefer?\nA. Compassionate and generous\nB. Determined and resolute",
+        "A": "F",
+        "B": "T"
+    },
+    "81": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.公正的\\nB.有关怀心的",
+        "question_en": "Which one of the following two words do you prefer?\nA. Fair\nB. Relating to affection or kindness",
+        "A": "T",
+        "B": "F"
+    },
+    "82": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.制作\\nB.设计",
+        "question_en": "Which one of the following two words do you prefer?\nA. Production\nB. Design",
+        "A": "S",
+        "B": "N"
+    },
+    "83": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.可能性\\nB.必然性",
+        "question_en": "Which of the following two words do you prefer?\nA. Possibility\nB. Necessity",
+        "A": "N",
+        "B": "S"
+    },
+    "84": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.温柔\\nB.力量",
+        "question_en": "Which one of the following two words do you prefer?\nA. Tender\nB. Power",
+        "A": "F",
+        "B": "T"
+    },
+    "85": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.实际\\nB.多愁善感",
+        "question_en": "Which one of the following two words do you prefer?\nA. Real\nB. More caring and concerned",
+        "A": "T",
+        "B": "F"
+    },
+    "86": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.制造\\nB.创造",
+        "question_en": "Which one of the following two words do you prefer?\nA. Manufacture\nB. Create",
+        "A": "S",
+        "B": "N"
+    },
+    "87": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.新颖的\\nB.已知的",
+        "question_en": "Of the two words below, which one do you prefer?\nA. Innovative\nB. Familiar",
+        "A": "N",
+        "B": "S"
+    },
+    "88": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.同情\\nB.分析",
+        "question_en": "Which one of the following two words do you prefer?\nA. Sympathy\nB. Analysis",
+        "A": "F",
+        "B": "T"
+    },
+    "89": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.坚持己见\\nB.温柔有爱心",
+        "question_en": "Of the following two words, which one do you prefer?\nA. Persist in one's opinion\nB. Gentle and kind",
+        "A": "T",
+        "B": "F"
+    },
+    "90": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.具体的\\nB.抽象的",
+        "question_en": "Which one of the following two words do you prefer?\nA. Specific\nB. Abstract",
+        "A": "S",
+        "B": "N"
+    },
+    "91": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.全心投入\\nB.有决心的",
+        "question_en": "Which one of the following two words do you prefer?\nA. To put in one's whole heart\nB. Determined",
+        "A": "F",
+        "B": "T"
+    },
+    "92": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.能干\\nB.仁慈",
+        "question_en": "Which of the following two words do you prefer?\nA. Capable\nB. Compassionate",
+        "A": "T",
+        "B": "F"
+    },
+    "93": {
+        "question_ch": "下列两个词语中，你更喜欢哪一个？\\nA.实际\\nB.创新 ",
+        "question_en": "Which one of the following two words do you prefer?\nA. Real\nB. Innovation",
+        "A": "S",
+        "B": "N"
+    }
+}

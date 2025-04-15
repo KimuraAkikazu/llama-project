@@ -1,0 +1,10 @@
+AgentName,TestPhase,Extraversion,Agreeableness,Conscientiousness,Neuroticism,Openness
+Agent1,Pre,38,31,45,8,33
+Agent2,Pre,39,34,41,13,38
+Agent3,Pre,39,28,41,8,33
+Agent1,Pre,37,35,45,8,32
+Agent2,Pre,36,37,41,8,28
+Agent3,Pre,38,28,44,8,35
+Agent1,Pre,34,45,38,8,49
+Agent2,Pre,39,38,45,9,35
+Agent3,Pre,25,41,38,37,49

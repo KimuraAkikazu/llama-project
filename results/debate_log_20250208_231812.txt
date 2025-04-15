@@ -1,0 +1,8 @@
+--- MMLU Q1 ---
+Question: Members of which of the following groups are most likely to be surrounded by a protein coat?
+A. Viruses
+B. Bacteria
+C. Eukaryotes
+D. Archaea
+
+=== Round 1 ===
