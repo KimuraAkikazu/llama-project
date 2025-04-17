@@ -1,0 +1,15 @@
+name: llama-test
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python=3.12
+  - huggingface_hub
+  - matplotlib
+  - pandas
+  - tqdm
+  - pydantic[version='>=2.6']
+  - statsmodels
+  - tiktoken[version='>=0.6.0']
+  - xgboost
+prefix: /home/a-kimura/.conda/envs/llama-test
