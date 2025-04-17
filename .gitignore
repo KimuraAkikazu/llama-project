@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+envs/
+models/
+results/
+eval_data/*.pkl
+*.csv
+*.txt
+.DS_Store
