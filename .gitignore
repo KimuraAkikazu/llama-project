@@ -1,10 +1,27 @@
+# Byte‑code & IDE
 __pycache__/
 *.py[cod]
+.vscode/
+.idea/
+
+# Conda / Virtualenv
 .venv/
 envs/
+*.conda
+*.lock
+
+# Models & Data
 models/
-results/
 eval_data/*.pkl
+
+# Re-creatable outputs
+results/
+*_boxplot.png
 *.csv
 *.txt
+
+# OS cruft
 .DS_Store
+Thumbs.db
+
+analysis/
